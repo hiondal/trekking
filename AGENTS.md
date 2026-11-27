@@ -273,3 +273,6 @@ status
 
 ## 워크플로우 진행상황
 - create: Done
+### plan
+- 진행 모드: 단계별 승인
+- 마지막 완료 Phase/Step: Phase 0
